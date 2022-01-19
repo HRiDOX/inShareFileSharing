@@ -14,11 +14,11 @@ connectDB();
 
 //Cors
 
-const corsOption = {
+/*const corsOption = {
         origin: process.env.ALLOWED_CLIENTS.split(',')
 }
 
-app.use(cors(corsOption));
+app.use(cors(corsOption));*/
 
 // Template engine
 
